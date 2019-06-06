@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: #f3c446;
+    font-family: bttf;
+;
+}
+
+p {
+    text-align: center;
+    color: blue;
+    font-family: bttf;
+}
+
+#start {
+    align-content: center;
+}
+
+.page-header {
+    height: 300px;
+}
+
+#question {
+    color: red;
+    font-size: 20px;
+    font-family: bttf;
+}
+
+label {
+    color: blue;
+    font-size: 20px;
+    font-family: bttf;
+}
+body {
+    background-image: url(../images/CS4A0594.jpg);
+
+}
+@font-face {
+    font-family: bttf;
+    src: url(./back_to_the_future/BTTF.ttf);
+}
